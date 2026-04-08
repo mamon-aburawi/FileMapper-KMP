@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="error_empty_file">الملف المختار فارغ</string>
+    <string name="error_invalid_format">تنسيق الملف غير صحيح. المتوقع XLSX أو JSON</string>
+    <string name="error_read_failed">فشل في قراءة الملف المختار</string>
+    <string name="error_export_failed">حدث خطأ أثناء التصدير</string>
+    <string name="error_no_data_rows">الملف لا يحتوي على صفوف بيانات</string>
+    <string name="error_all_columns_ignored">تم تجاهل جميع الأعمدة لفئة البيانات المستهدفة.</string>
+    <string name="error_missing_columns">الأعمدة المطلوبة مفقودة: %s</string>
+    <string name="error_unexpected_columns">تم العثور على أعمدة غير متوقعة: %s</string>
+    <string name="error_unexpected_error">حدث خطأ غير متوقع: %s</string>
+    <string name="error_unknown">حدث خطأ غير معروف</string>
+
+
+</resources>

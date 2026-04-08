@@ -1,0 +1,16 @@
+
+<resources>
+        <string name="error_empty_file">The selected file is empty</string>
+        <string name="error_invalid_format">Invalid file format. Expected XLSX or JSON</string>
+        <string name="error_read_failed">Failed to read the selected file</string>
+        <string name="error_export_failed">An error occurred during export</string>
+        <string name="error_no_data_rows">The file contains no data rows</string>
+        <string name="error_all_columns_ignored">All columns for the target data class are ignored</string>
+        <string name="error_missing_columns">Missing Required Columns: %s</string>
+        <string name="error_unexpected_columns">Unexpected Columns found: %s</string>
+        <string name="error_unexpected_error">An unexpected error occurred: %s</string>
+        <string name="error_unknown">Unknown Error occurred</string>
+</resources>
+
+
+
