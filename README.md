@@ -59,7 +59,8 @@ data class Employee(
     
     @ColumnName("Email Address")
     val email: String,
-    
+
+    @ColumnName("Age")
     val age: Int 
 )
 ```
