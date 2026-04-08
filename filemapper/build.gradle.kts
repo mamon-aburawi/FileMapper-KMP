@@ -155,9 +155,9 @@ mavenPublishing {
 
     pom {
         name = "FileMapper KMP"
-        description = ""
+        description = "A lightweight, powerful Kotlin Multiplatform (KMP) library designed to seamlessly map files (XLSX, JSON) to Kotlin Data Classes. Supporting Android, iOS, Desktop, and Web (Wasm/JS), it provides both Compose-ready UI triggers and pure logic-based APIs."
         inceptionYear = "2026"
-        url = "" // add you repo link
+        url = "https://github.com/mamon-aburawi/FileMapper-KMP"
         licenses {
             license {
                 name = "MIT License"
@@ -171,7 +171,7 @@ mavenPublishing {
             }
         }
         scm {
-            url = "" // add your repo link
+            url = "https://github.com/mamon-aburawi/FileMapper-KMP"
         }
     }
 
