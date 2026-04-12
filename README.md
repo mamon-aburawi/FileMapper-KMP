@@ -164,11 +164,11 @@ val message = exception.getLocalizedMessage()
 
 -----
 
-## 🌟 Support the Project
+## 🌟 Support the Library
 
-If this library helped you save time on your KMP project, please consider giving it a star\! It helps more developers find the project.
+If this library helped you save time on your KMP project, please consider giving it a ⭐ It helps more developers find the project.
 
-**[ ⭐ Star this Repository ]**
+
 
 -----
 
